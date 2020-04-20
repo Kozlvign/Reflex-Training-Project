@@ -1,2 +1,2 @@
 # Reflex Training Project
- I made this using my basic knowledge of javascript vanilla 
+ I made this using javascript vanilla to help some friends
